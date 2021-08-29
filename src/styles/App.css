@@ -1,0 +1,65 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    * {}
+
+    .bg-light { @apply bg-white; }
+    .bg-muted { @apply bg-gray-500; }
+    .bg-dark { @apply bg-gray-900; }
+    .text-light { @apply text-white; }
+    .text-muted { @apply text-gray-500 }
+    .text-dark { @apply text-gray-900; }
+
+    body { @apply bg-light text-dark text-lg; }
+
+    h1, h2, h3, h4, h5, h6 { @apply my-2; }
+    h1, h2, h3 { @apply text-secondary-700; }
+    h1 { @apply text-6xl font-semibold; }
+    h2 { @apply text-4xl font-semibold; }
+    h3 { @apply text-2xl font-semibold; }
+    h4 { @apply text-xl font-extralight; }
+    h5 { @apply text-lg font-extralight; }
+    h6 { @apply text-lg; }
+
+    p { @apply mb-2; }
+
+    a { @apply text-tertiary-500 underline; }
+
+    ul, ol { @apply list-outside pl-8; }
+    ul { @apply list-disc }
+    ol { @apply list-decimal }
+
+    .color-primary { @apply bg-primary-500 text-light; }
+    .color-secondary { @apply bg-secondary-500 text-light; }
+    .color-tertiary { @apply bg-tertiary-500 text-light; }
+    .color-inverted { @apply bg-light text-dark; }
+}
+
+@layer components {
+    * {}
+
+    .hero { @apply color-primary rounded-b-3xl; }
+    .hero-container { @apply container mx-auto px-2 py-32; }
+    .hero-title { @apply lg:text-8xl text-6xl font-light mb-4 !important; }
+    .hero-subtitle { @apply lg:text-2xl text-xl font-normal mt-4 !important; }
+    .hero-contents { @apply mt-4; }
+
+    .btn-sm, .btn-md, .btn-lg { @apply inline-block rounded-lg font-semibold shadow no-underline; }
+    .btn-sm { @apply text-sm p-1; }
+    .btn-md, .btn { @apply text-base p-2; }
+    .btn-lg { @apply text-lg p-3; }
+
+    .btn-primary { @apply color-primary hover:bg-primary-700; }
+    .btn-secondary { @apply color-secondary hover:bg-secondary-700; }
+    .btn-tertiary { @apply color-tertiary hover:bg-tertiary-700; }
+
+    .btn-circle { @apply rounded-full !important; }
+    .btn-inverted { @apply color-inverted !important; }
+    .btn-noshadow { @apply shadow-none !important; }
+
+    .footer { @apply bg-gray-700 text-light rounded-t-3xl; }
+    .footer-container { @apply container mx-auto p-2 }
+}
+
