@@ -1,0 +1,9 @@
+site_name: michaelrk02
+theme: terminal
+nav:
+  - Biografi: index.md
+  - Portfolio: portfolio.md
+  - Jasa: jasa.md
+  - Tulisan: tulisan.md
+markdown_extensions:
+  - attr_list
