@@ -1,4 +1,6 @@
 site_name: michaelrk02
+docs_dir: src
+site_dir: docs
 theme: terminal
 nav:
   - Biografi: index.md
