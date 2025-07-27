@@ -1,7 +1,10 @@
 site_name: michaelrk02
 docs_dir: src
 site_dir: docs
-theme: terminal
+theme:
+  name: terminal
+  features:
+    - navigation.side.hide
 nav:
   - Biografi: index.md
   - Portfolio: portfolio.md
