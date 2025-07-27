@@ -25,6 +25,10 @@ Fitur yang tersedia di antaranya:
 7. Fitur Challenge: Terdapat pilihan challenge yang dapat dilakukan pengguna selama beberapa hari ke depan. 
 8. Fitur Seeking Help: Pengguna dapat menghubungi kontak-kontak pihak profesional yang dapat membantu jika merasa perlu bantuan profesional.
 
+## Kesan Penulis
+
+Aplikasi web Narajiwa juga merupakan aplikasi dalam _domain_ psikologi, selain [Sibisa](2022-sibisa.md) dan [Kancani](2022-kancani.md). Walaupun dari segi fitur tidak sekompleks dua aplikasi pendahulunya, proyek ini meraih kesuksesan besar sejak peluncurannya. Cerita sukses Narajiwa telah diliput di berbagai media massa kredibel seperti JawaPos, USS FEED, Satu Persen, Antara News, Tempo, dan lain sebagainya. Selain itu juga memiliki ribuan pengguna aktif yang terdaftar dalam platform _website_ tersebut. Kunjungi [halaman Instagram ini](https://instagram.com/narajiwa_) untuk mengetahui lebih lanjut tentang Narajiwa.
+
 ## Screenshot
 
 ![](/assets/proyek/2023-narajiwa/checkin.png)

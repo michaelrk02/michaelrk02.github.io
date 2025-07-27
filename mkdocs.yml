@@ -11,4 +11,6 @@ nav:
   - Jasa: jasa.md
   - Tulisan: tulisan.md
 markdown_extensions:
-  - attr_list
+  attr_list:
+  toc:
+    permalink: '#'
