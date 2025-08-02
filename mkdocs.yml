@@ -14,3 +14,4 @@ markdown_extensions:
   attr_list:
   toc:
     permalink: '#'
+  footnotes:

@@ -12,11 +12,11 @@ Hobi saya saat ini adalah bermain _game_, menonton film & series, mendengarkan m
 
 ## Riwayat Karir
 
-- **PT Sistem Integrasi Medika (2024 s.d. sekarang)** - Full Stack Developer (penempatan Surakarta)
-- **Self-employed software developer** - Sibisa (2022), Kancani (2022), Be-Fam (2023), Narajiwa (2023), Lazuardi Al-Falah GCS Klaten (2024)
-- **Digitalize (2022)** - Software Engineer (kontrak)
-- **Genba Coffee (2022)** - Web Developer (kontrak)
-- **Universitas Sebelas Maret (2021 s.d. 2024)** - System & Software Engineer Intern ERP Informatika UNS (1 tahun), Asisten Pengajar (4 matakuliah)
+- **PT Sistem Integrasi Medika (2024 s.d. sekarang)** - Full Stack Developer (penempatan Surakarta) [^sismedika-hisv3]
+- **Self-employed software developer** - Sibisa (2022) [^sibisa], Kancani (2022) [^kancani], Be-Fam (2023) [^befam], Narajiwa (2023) [^narajiwa]
+- **Universitas Sebelas Maret (2021 s.d. 2024)** - System & Software Engineer Intern ERP Informatika UNS (1 tahun) [^if-erp], Asisten Pengajar (4 matakuliah)
+- **Digitalize (2022)** - Software Engineer (kontrak) [^perwabkeu]
+- **Genba Coffee (2022)** - Web Developer (kontrak) [^genba]
 
 ## Riwayat Pendidikan
 
@@ -26,14 +26,14 @@ Hobi saya saat ini adalah bermain _game_, menonton film & series, mendengarkan m
 
 ## Riwayat Organisasi & Aktivitas Sosial
 
-- **Komisi Pemilihan Raya (KPR) FMIPA UNS (2021)** - Koordinator Divisi Operasional dan Publikasi
-- **Pekan Informasi dan Teknologi (PINGFEST) Informatika UNS (2021)** - Koordinator Divisi Teknologi
+- **Komisi Pemilihan Raya (KPR) FMIPA UNS (2021)** - Koordinator Divisi Operasional dan Publikasi [^pemira]
+- **Pekan Informasi dan Teknologi (PINGFEST) Informatika UNS (2021)** - Koordinator Divisi Teknologi [^pingfest] [^pingfestcbt]
 - **International Game Development Competition Informatika UNS (2021)** - Staf Divisi Acara
 - **Himpunan Mahasiswa Ilmu Komputer / Informatika (HIMASTER) UNS (2021)** - Wakil Ketua Bidang Pengembangan Teknologi
 - **IT4You Workshop Informatika UNS (2020)** - Ketua Pelaksana & Pembicara
 - **OSN Informatika SMAN 3 Surakarta (2020)** - Tutor dan pembimbing olimpiade
-- **Ajang Kreasi dan Seni (AKSEN) SMAN 3 Surakarta (2019)** - Staf Divisi Ticketing
-- **Administrator SMAN 3 Surakarta (2017)** - Anggota, tutor, dan _technical lead_ divisi _programming_
+- **Ajang Kreasi dan Seni (AKSEN) SMAN 3 Surakarta (2019)** - Staf Divisi Ticketing [^aksen]
+- **Administrator SMAN 3 Surakarta (2017)** - Anggota, tutor, _developer_, dan _technical lead_ divisi _programming_ [^gurfav] [^pemilos] [^pemiloscbt] [^tank]
 
 ## Riwayat Sertifikasi
 
@@ -55,3 +55,20 @@ Hobi saya saat ini adalah bermain _game_, menonton film & series, mendengarkan m
 - **Infrastructure:** Linux (Ubuntu, RHEL), Bash, Docker, Networking, cPanel
 - **Lain-lain:** Python (General Purpose), Flutter (Mobile App Development), C/C++ (Desktop & Embedded App Development), C# (Desktop App & Game Development), Lua (Game Scripting)
 - **Softskill:** Critical Thinking, Communication, Negotiation, Teamwork, Leadership
+
+[^sismedika-hisv3]: PT Sistem Integrasi Medika: [Hospital Information System (HISv3)](./proyek/2024-sismedika-hisv3.md)
+[^sibisa]: Self-employed software developer: [Sibisa](./proyek/2022-sibisa.md)
+[^kancani]: Self-employed software developer: [Kancani](./proyek/2022-kancani.md)
+[^befam]: Self-employed software developer: [Be-Fam](./proyek/2023-befam.md)
+[^narajiwa]: Self-employed software developer: [Narajiwa](./proyek/2023-narajiwa.md)
+[^if-erp]: Universitas Sebelas Maret: [ERP Sekolah](./proyek/2022-if-erp.md)
+[^perwabkeu]: Digitalize: [Perwabkeu Polda DIY](./proyek/2022-perwabkeu.md)
+[^genba]: Genba Coffee: [Genba Market](./proyek/2022-genba.md)
+[^pemira]: Komisi Pemilihan Raya (KPR) FMIPA UNS: [Pemilihan Raya](./proyek/2021-pemira.md)
+[^pingfest]: Pekan Informasi dan Teknologi (PINGFEST) Informatika UNS: [PINGFEST E-ticketing](./proyek/2021-pingfest.md)
+[^pingfestcbt]: Pekan Informasi dan Teknologi (PINGFEST) Informatika UNS: [PINGFEST CBT / LMS (ZLearn LMS)](./proyek/2021-pingfestcbt.md)
+[^aksen]: Ajang Kreasi dan Seni (AKSEN) SMAN 3 Surakarta: [Ajang Kreasi dan Seni (AKSEN)](./proyek/2019-aksen.md)
+[^gurfav]: Administrator SMAN 3 Surakarta: [Guru Favorit SMAN 3 Surakarta](./proyek/2019-gurfav.md)
+[^pemilos]: Administrator SMAN 3 Surakarta: [E-voting Pemilos SMAN 3 Surakarta](./proyek/2019-pemilos.md)
+[^pemiloscbt]: Administrator SMAN 3 Surakarta: [E-voting Pemilos SMAN 3 Surakarta](./proyek/2019-pemiloscbt.md)
+[^tank]: Administrator SMAN 3 Surakarta: [Tank vs. Monsters Reloaded](./proyek/2018-tank.md)
