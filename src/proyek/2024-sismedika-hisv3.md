@@ -6,7 +6,7 @@
 >
 > Teknologi: **Golang, ReactJS (MaterialUI), HL7 FHIR**
 
-Proyek ini merupakan proyek pertama saya sejak bergabung dengan PT Sistem Integrasi Medika. Peran saya secara spesifik di proyek ini adalah sebagai _backend developer_. Saya banyak terlibat mengerjakan berbagai modul utama, seperti EMR, pelayanan rawat jalan dan rawat inap, penunjang medis (laboratorium dan radiologi), operasi, dan masih banyak lagi.
+Proyek ini merupakan proyek pertama saya sejak bergabung dengan PT Sistem Integrasi Medika. Peran saya secara spesifik di proyek ini adalah sebagai _backend developer_ kemudian dipromosikan menjadi _lead full stack developer_ 2 tahun kemudian. Saya banyak terlibat mengerjakan berbagai modul utama, seperti EMR, pelayanan rawat jalan dan rawat inap, penunjang medis (laboratorium dan radiologi), operasi, dan masih banyak lagi.
 
 ## Kesan Penulis
 
@@ -23,6 +23,6 @@ Saya dapat merasakan dampak yang saya kerjakan dalam proyek ini, antara lain:
 7. Mengembangkan modul penunjang laboratorium, mulai dari pengolahan sampel, input hasil, nilai normal, formula, dan _bridging_ dengan alat lab seperti SYSMEX XN 330, SD Biosensor F200, COBAS C311, dan lain sebagainya
 8. Mengembangkan modul lain seperti operasi, _dashboard_ rekam medis, rehab medik, hemodialisa, dan lain sebagainya
 
-Aktivitas saya selain _coding_ di sini antara lain: (1) menjadi _code reviewer_ utama pada aplikasi _backend_, (2) memimpin _daily standup_ dan melakukan koordinasi saat diperlukan, (3) analisis modul atau fitur tertentu yang menghasilkan sekumpulan _task_ yang dapat dikerjakan oleh tim, (4) turut serta melakukan _onboarding_ terhadap karyawan baru dengan memberikan bimbingan dan _task_ yang sederhana, dan (5) membimbing rekan setim saya yang mengalami kendala teknis.
+Aktivitas saya selain _coding_ di sini antara lain: (1) menjadi _code reviewer_ utama pada aplikasi _backend_, (2) memimpin _daily standup_ dan melakukan koordinasi, (3) analisis modul atau fitur tertentu yang menghasilkan sekumpulan _task_ yang dapat dikerjakan oleh tim, (4) turut serta melakukan _onboarding_ terhadap karyawan baru dengan memberikan bimbingan dan _task_ yang sederhana, dan (5) membimbing rekan setim saya yang mengalami kendala teknis.
 
 Proyek ini menandai lompatan besar dalam karir saya, yang mana sebelumnya saya dominan bekerja secara individu kemudian akhirnya bekerja secara tim. Di sini saya belajar banyak hal, mulai dari menurunkan ego saya untuk menyesuaikan dengan lingkungan kerja tim, sampai dengan belajar _best practice_ dan teknologi baru khususnya yang berkaitan dengan _backend engineering_.
