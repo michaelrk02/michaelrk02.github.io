@@ -10,7 +10,7 @@ Sekarang saya bekerja sebagai **Lead Full Stack Developer** di **PT Sistem Integ
 Hobi saya saat ini adalah bermain _game_, menonton film & series, bermusik, dan kulineran. Saya menyukai _game_ dengan genre First-Person Shooter (FPS), strategi 4X, dan _open-world_. _Game_ yang cukup sering saya mainkan antara lain Ravenfield, Master of Orion, Civilization, Minecraft, dan Stardew Valley. Lalu saya suka menonton film & series dengan genre _crime_, _drama_, dan _sci-fi_, dengan The Godfather merupakan film favorit saya. Selera musik saya sebagian besar bernuansa _progressive rock & hard rock_ seperti Rush, Pink Floyd, Genesis, dan Deep Purple, serta _heavy metal & progressive metal_ seperti Iron Maiden, Metallica, Black Sabbath, dan Dream Theater. Aktivitas kulineran saya sebagian besar berada di wilayah Solo karena cukup dikenal dengan julukan kota kuliner, mulai dari kuliner khas yang legendaris seperti selat dan sate kambing hingga _western_ seperti _pizza_ dan _steak_. Selain itu, saya juga hobi bermain alat musik dan saat ini sedang mendalami instrumen _keyboard_ dan drum.
 -->
 
-[LinkedIn](https://linkedin.com/in/michaelrk02) | [GitHub](https://github.com/michaelrk02) | [Twitter](https://x.com/michaelrk02) | [Instagram](https://instagram.com/michaelrk02) | [Spotify](https://open.spotify.com/user/315gp5ardsvuuhvhryqoujstftty?si=43363a2c30214c43)
+[LinkedIn](https://linkedin.com/in/michaelrk02) | [GitHub](https://github.com/michaelrk02) | [Twitter](https://x.com/michaelrk02) | [Instagram](https://instagram.com/michaelrk02) | [Threads](https://www.threads.com/@michaelrk02) | [Spotify](https://open.spotify.com/user/315gp5ardsvuuhvhryqoujstftty?si=43363a2c30214c43)
 
 ## Riwayat Karir
 
