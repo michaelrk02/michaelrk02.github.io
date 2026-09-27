@@ -1,12 +1,14 @@
 # Selamat Datang!
 
-![Foto](assets/Wisuda-Photoshoot-01-SM.jpg){: style="width: 256px; height: 256px"}
+![Foto](assets/ProfessionalPhoto_SM.jpg){: style="width: 256px; height: 256px"}
 
 Perkenalkan saya **Michael Raditya Krisnadhi, S.Kom.**, seorang INTJ yang berprofesi sebagai _Software Engineer_. Lahir di Purwokerto tahun 2002, saya dibesarkan dan sekolah di Surakarta / Solo, dari kecil hingga kuliah. Saya merupakan alumni dari program studi S1 Informatika Universitas Sebelas Maret (UNS) Surakarta angkatan 2020, yang lulus pada tahun 2024 lalu dengan IPK 3.92 dan masa studi 4 tahun 5 bulan. Semasa sekolah dan kuliah, saya sering terlibat dalam berbagai proyek dan aktivitas sosial, yang mana sebagian besar berhubungan secara langsung dengan pengembangan karir saya. Saya merupakan orang dengan kepribadian yang tegas serta berorientasi kepada hasil dan masa depan.
 
 Sekarang saya bekerja sebagai **Lead Full Stack Developer** di **PT Sistem Integrasi Medika** yang berlokasi di Tangerang Selatan dan Surakarta. PT Sistem Integrasi Medika merupakan perusahaan _software_ yang bergerak di industri kesehatan di bawah naungan Primaya Hospital Group dan memiliki berbagai produk di antaranya Hospital Information System (HIS), Laboratory Information System (LIS), dan lain sebagainya. Perjalanan karir saya dimulai sejak masa SMA di mana saya terlibat mengerjakan berbagai proyek pengembangan aplikasi berbasis web untuk keperluan organisasi dan acara sekolah seperti _e-voting_, _e-ticketing_, _Computer-Based Test_ (CBT), dan lain sebagainya, yang mana kala itu saya belajar pemrograman secara otodidak. Berbagai proyek besar telah sukses saya selesaikan dalam 5+ tahun kiprah saya di dunia _software development_, selengkapnya dapat dilihat pada bagian [portfolio](portfolio.md).
 
+<!--
 Hobi saya saat ini adalah bermain _game_, menonton film & series, bermusik, dan kulineran. Saya menyukai _game_ dengan genre First-Person Shooter (FPS), strategi 4X, dan _open-world_. _Game_ yang cukup sering saya mainkan antara lain Ravenfield, Master of Orion, Civilization, Minecraft, dan Stardew Valley. Lalu saya suka menonton film & series dengan genre _crime_, _drama_, dan _sci-fi_, dengan The Godfather merupakan film favorit saya. Selera musik saya sebagian besar bernuansa _progressive rock & hard rock_ seperti Rush, Pink Floyd, Genesis, dan Deep Purple, serta _heavy metal & progressive metal_ seperti Iron Maiden, Metallica, Black Sabbath, dan Dream Theater. Aktivitas kulineran saya sebagian besar berada di wilayah Solo karena cukup dikenal dengan julukan kota kuliner, mulai dari kuliner khas yang legendaris seperti selat dan sate kambing hingga _western_ seperti _pizza_ dan _steak_. Selain itu, saya juga hobi bermain alat musik dan saat ini sedang mendalami instrumen _keyboard_ dan drum.
+-->
 
 [LinkedIn](https://linkedin.com/in/michaelrk02) | [GitHub](https://github.com/michaelrk02) | [Twitter](https://x.com/michaelrk02) | [Instagram](https://instagram.com/michaelrk02) | [Spotify](https://open.spotify.com/user/315gp5ardsvuuhvhryqoujstftty?si=43363a2c30214c43)
 
