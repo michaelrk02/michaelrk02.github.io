@@ -2,7 +2,7 @@
 
 Meskipun saya saat ini sudah bekerja secara _full-time_, saya tidak menutup kemungkinan terhadap peluang untuk bekerja sama seputar IT dan _Software Development_. Secara umum saya dapat menyediakan 3 jenis jasa, yakni:
 
-1. Produk sistem _e-voting_ berbasis kriptografi, untuk mendukung keberjalanan pemilihan umum raya mahasiswa, tersedia di [presmavote.web.id](https://presmavote.web.id/)
+1. Produk sistem _e-voting_ berbasis kriptografi, untuk mendukung keberjalanan pemilihan umum raya mahasiswa, tersedia di [presmavote.web.id](https://presmaid.github.io/presma-docs/)
 2. Layanan pengembangan aplikasi perangkat lunak berbasis web dengan harga cukup terjangkau
 3. Layanan kebutuhan lainnya yang berkaitan dengan IT atau bidang studi ilmu komputer
 

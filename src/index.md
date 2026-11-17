@@ -43,6 +43,7 @@ Hobi saya saat ini adalah bermain _game_, menonton film & series, bermusik, dan 
 
 ## Riwayat Prestasi
 
+- **Best Employee of the Quarter (Q1 2026)** - PT Sistem Integrasi Medika (SISMEDIKA)
 - **Most Valuable Person (2023)** - Proyek ERP Informatika UNS
 - **Hi-Movers Scholarship (2022)** - PT Bank Negara Indonesia
 - **Top 500 Proposal (2022)** - Pekan Ilmiah Mahasiswa (PIM) UNS
